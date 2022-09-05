@@ -1,0 +1,83 @@
+body {
+	background: #F0ba71;
+}
+
+p {
+	text-align: justify;
+}
+
+
+h1 {
+	text-align: center;
+	border: dotted #b1411e;
+}
+
+h2 {
+	display: inline-block;
+	font-size: 25px;
+	text-align: center;
+	color: #b1411e;
+}
+
+ul {
+	display: inline-block;
+	font-size: 15px;
+}
+
+
+em strong {
+	color: #FF0000;
+}
+
+footer {
+	text-align: center;
+	background-color: white;
+}
+
+#logo {
+	width: 150px;
+	display: inline-block;
+	margin-left: 600px;
+}
+
+#endereco {
+	width: 100%;
+}
+
+
+#imagem1 {
+	width: 50px;
+	height: 50px;
+}
+
+#video {
+	text-align: center;
+	margin-left: 150px;
+
+}
+
+.lista {
+	display: inline-block;
+	vertical-align: top;
+	border: double orangered;
+	padding: 20px;
+}
+
+.foto {
+	display: inline-block;
+	width: 50%;
+	text-align: center;
+}
+
+.imagem2 {
+	display: inline-block;
+	border: double orangered;
+	width: 600px;
+	height: 440px;
+	margin-right: 10px;
+}
+
+li::marker {
+	content: "\263B";
+	color: red;
+	font size: 20px;
